@@ -1,2 +1,11 @@
 *.pyc
 *.sqlite
+*.db
+pip-selfcheck.json
+pyvenv.cfg
+__pychache__/*
+bin/*
+include/*
+lahman_data/*
+lib/*
+lib64
