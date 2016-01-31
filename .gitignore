@@ -9,3 +9,6 @@ include/*
 lahman_data/*
 lib/*
 lib64
+*.csv
+*.txt
+app/forecasting/.ipynb_checkpoints
