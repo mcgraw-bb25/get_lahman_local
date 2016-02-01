@@ -12,3 +12,4 @@ lib64
 *.csv
 *.txt
 app/forecasting/.ipynb_checkpoints
+app/forecasting
